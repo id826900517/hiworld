@@ -13,5 +13,6 @@ public class HiWorld {
         System.out.println("ggg");
         System.out.println("hhh");
         System.out.println("qwe");
+        System.out.println("asd");
     }
 }
