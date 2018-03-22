@@ -1,8 +1,6 @@
 public class HiWorld {
     public static void main(String[] args) {
-        System.out.println("123");
-        System.out.println("2");
-        System.out.println("ba");
-        System.out.println("qwe");
+        System.out.println("1");
+        System.out.println("q");
     }
 }
