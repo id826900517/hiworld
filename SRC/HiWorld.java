@@ -7,5 +7,7 @@ public class HiWorld {
         System.out.println("asd");
         System.out.println("qqq");
         System.out.println("qqq");
+        System.out.println("ttt");
+        System.out.println("yyy");
     }
 }
