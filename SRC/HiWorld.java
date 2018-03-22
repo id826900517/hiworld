@@ -1,6 +1,6 @@
 public class HiWorld {
     public static void main(String[] args) {
-        System.out.println("1233");
+        System.out.println("123");
         System.out.println("2");
         System.out.println("ba");
         System.out.println("qwe");
@@ -9,7 +9,7 @@ public class HiWorld {
         System.out.println("qqq");
         System.out.println("ttt");
         System.out.println("yyy");
-        System.out.println("iii");
-        System.out.println("iii");
+        System.out.println("uuu");
+        System.out.println("ggg");
     }
 }
