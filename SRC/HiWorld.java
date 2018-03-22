@@ -5,5 +5,6 @@ public class HiWorld {
         System.out.println("qweeeeee");
         System.out.println("qweeeeee");
         System.out.println("qweeeeee");
+        System.out.println("qwe");
     }
 }
