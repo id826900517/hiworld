@@ -4,5 +4,6 @@ public class HiWorld {
         System.out.println("2");
         System.out.println("ba");
         System.out.println("qwe");
+        System.out.println("asd");
     }
 }
